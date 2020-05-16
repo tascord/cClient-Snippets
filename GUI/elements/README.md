@@ -4,3 +4,4 @@ Theres a bit of weird stuff here I need for my implimentations, feel free to dis
 
 ## Notes
 ClientToggle bases its head's size on the width of the slider, this should change shortly.
+ClientSlider currently requires it's width to be above 100, this will change shortly.
